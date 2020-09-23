@@ -8,28 +8,28 @@
 >
 ![Alt text](admin_page.png?raw=true "Title")
 
-#booking record
+# booking record
 ![Alt text](booking_record.png?raw=true "Title")
 
-#delete operation
+# delete operation
 ![Alt text](delete_operation.png?raw=true "Title")
 
-#insert operation
+# insert operation
 ![Alt text](insert_operation.png?raw=true "Title")
 
-#login_page
+# login_page
 ![Alt text](login_page.png?raw=true "Title")
 
-#past booking
+# past booking
 ![Alt text](past_booking.png?raw=true "Title")
 
-#update operation
+# update operation
 ![Alt text](update_operation.png?raw=true "Title")
 
-#user cancel history
+# user cancel history
 ![Alt text](user_cancel _history.png?raw=true "Title")
 
-#user page
+# user page
 ![Alt text](user_page.png?raw=true "Title")
 
 
