@@ -1,5 +1,46 @@
-#home page
-![Alt text](home_page.png?raw=true "HOME PAGE")
+# home page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>This simple home page of my applsdfjsdlkfjdsljf dsfslff
+s
+
+
+
+
+
+
+
+
+
+
+
+
+![Alt text](https://github.com/cout-pranav/mini-project/blob/master/project%20photo/admin_login.png)
+
+
+
+
+
+
 
 #admin_login
 ![Alt text](admin_login.png?raw=true "Title")
