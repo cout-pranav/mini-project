@@ -1,5 +1,5 @@
 #home page
-![Alt text](home_page.png?raw=true "Title")
+![Alt text](home_page.png?raw=true "HOME PAGE")
 
 #admin_login
 ![Alt text](admin_login.png?raw=true "Title")
