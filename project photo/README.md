@@ -27,7 +27,7 @@
 ![Alt text](update_operation.png?raw=true "Title")
 
 # user cancel history
-![Alt text](history.png?raw=true "Title")
+![Alt text](https://github.com/cout-pranav/mini-project/blob/master/project%20photo/history.png?raw=true "Title")
 
 # user page
 ![Alt text](user_page.png?raw=true "Title")
